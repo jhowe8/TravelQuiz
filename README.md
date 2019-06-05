@@ -1,16 +1,7 @@
 # geo_quiz
 
-A new Flutter application.
+Take quick quiz to find next travel destination. 
 
-## Getting Started
+## To Play
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Answer based on how much you agree with each statement. There are 10 statements total, and 1 star means disagree and 5 stars means that you definitely disagree with the statement.
