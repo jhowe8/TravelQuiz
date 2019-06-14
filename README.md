@@ -6,7 +6,7 @@ Find it on google play store: https://play.google.com/store/apps/details?id=quiz
 
 ## To Play
 
-Answer based on how much you agree with each statement. There are 10 statements total, and 1 star means disagree and 5 stars means that you definitely disagree with the statement.
+Answer based on how much you agree with each statement. There are 10 statements total, and 1 star means disagree and 5 stars means that you definitely agree with the statement.
 
 ## Screenshots:
 ![Landing Page](https://user-images.githubusercontent.com/26032200/59072491-bb446280-8890-11e9-8a3c-50cb2dd6d200.png)
